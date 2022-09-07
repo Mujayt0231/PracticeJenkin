@@ -7,7 +7,7 @@
 	
   <test name="BoraTech">
     <classes>
-      <class name="cucumber.POM.BoraTech_SignUp"/>
+      <class name="cucumber.POM.Test1"/>
     </classes>
   </test> 
  
