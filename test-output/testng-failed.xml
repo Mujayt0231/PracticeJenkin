@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="SignUpPageurl" value="https://boratech.herokuapp.com/register"/>
+  <parameter name="HomePageurl" value="https://boratech.herokuapp.com/"/>
+  <test thread-count="5" name="BoraTech(failed)">
+    <classes>
+      <class name="cucumber.POM.BoraTech_SignUp">
+        <methods>
+          <include name="Sing_Up"/>
+          <include name="VerifyHomePageUrl"/>
+          <include name="click_SignIn_Button"/>
+          <include name="initilizeDriver"/>
+          <include name="VerifySigUpPagaUrl"/>
+        </methods>
+      </class> <!-- cucumber.POM.BoraTech_SignUp -->
+    </classes>
+  </test> <!-- BoraTech(failed) -->
+</suite> <!-- Failed suite [Suite] -->

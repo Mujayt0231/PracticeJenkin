@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite"  thread-count = "5">
+	
+	<parameter name = "HomePageurl" value = "https://boratech.herokuapp.com/"/>
+	<parameter name = "SignUpPageurl" value = "https://boratech.herokuapp.com/register"/>
+	
+  <test name="BoraTech">
+    <classes>
+      <class name="cucumber.POM.BoraTech_SignUp"/>
+    </classes>
+  </test> 
+ 
+  
+  <!-- Test -->
+</suite> <!-- Suite -->
