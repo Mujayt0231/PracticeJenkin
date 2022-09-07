@@ -3,4 +3,5 @@ cucumber\POM\DataProviders.class
 cucumber\DataDriven\PropertiesPractice.class
 cucumber\POM\TestCase2.class
 cucumber\POM\Listeners.class
+cucumber\POM\Test1.class
 cucumber\POM\TestCase1.class
