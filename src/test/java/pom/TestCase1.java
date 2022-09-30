@@ -1,4 +1,4 @@
-package cucumber.POM;
+package pom;
 
 import org.apache.logging.log4j.core.util.FileUtils;
 import org.openqa.selenium.WebDriver;

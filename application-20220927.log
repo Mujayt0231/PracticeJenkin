@@ -1,0 +1,10 @@
+2022-09-27 21:52:08.061 [main] INFO  pages.BasePage - Base Page constructor is called, and page factory is initialized
+2022-09-27 21:52:08.064 [main] INFO  pages.HomePage - Page factory initialize
+2022-09-27 22:09:52.885 [main] INFO  pages.BasePage - Base Page constructor is called, and page factory is initialized
+2022-09-27 22:09:52.889 [main] INFO  pages.HomePage - Page factory initialize
+2022-09-27 22:09:53.041 [main] INFO  pages.BasePage - Base Page constructor is called, and page factory is initialized
+2022-09-27 22:10:47.798 [main] INFO  pages.BasePage - Base Page constructor is called, and page factory is initialized
+2022-09-27 22:10:47.801 [main] INFO  pages.HomePage - Page factory initialize
+2022-09-27 22:10:47.941 [main] INFO  pages.BasePage - Base Page constructor is called, and page factory is initialized
+2022-09-27 22:18:59.090 [main] INFO  pages.BasePage - Base Page constructor is called, and page factory is initialized
+2022-09-27 22:18:59.094 [main] INFO  pages.HomePage - Page factory initialize

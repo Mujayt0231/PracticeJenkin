@@ -1,4 +1,4 @@
-package cucumber.POM;
+package pom;
 
 import org.openqa.selenium.By;
 

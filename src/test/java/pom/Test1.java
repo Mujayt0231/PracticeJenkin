@@ -1,4 +1,4 @@
-package cucumber.POM;
+package pom;
 
 import org.testng.annotations.Test;
 
